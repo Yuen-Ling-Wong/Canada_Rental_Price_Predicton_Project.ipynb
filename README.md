@@ -15,7 +15,7 @@ Dataset obtained from: [rentfaster.ca](https://www.rentfaster.ca/?utm_source=OOH
 2. Which factors (or features) are important in influencing the rental price?
 3. How are the performances of multiple regression models?
 4. Which regression model is the best model based on statistical anaysis?
-5. Make New Prediction
+5. Make New Prediction on Rental Price
 
 
 ## Data Analysis Steps
