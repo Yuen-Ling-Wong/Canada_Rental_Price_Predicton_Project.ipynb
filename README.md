@@ -4,7 +4,7 @@
 This project aims at analyzing the latest data regarding **Canada Rental Price in 2024** and, most importantly, finding the best machine learnning model (regression model) to make the most accurate predictions on the rental price.
 
 Project Co-Created by: 
-Kun Bi, Naudeen Stewart, Flora Wong
+Kun Bi, Naudeen Stewart, Flora Wong (Yuen Ling)
 
 Dataset: [dataset](canada_rent.csv)
 Dataset obtained from: [rentfaster.ca](https://www.rentfaster.ca/?utm_source=OOH&utm_medium=sign&utm_campaign=ca).
