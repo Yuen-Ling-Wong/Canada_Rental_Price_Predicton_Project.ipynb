@@ -25,6 +25,10 @@ Dataset obtained from: [rentfaster.ca](https://www.rentfaster.ca/?utm_source=OOH
 4. **Step 4**: Build Multiple Regression Models
 5. **Step 5**: Select Best Model + New Prediction
 
+## Regression Models Used
+1. LassoCV Model
+2. RidgeCV Model
+3. ElasticNetCV Model
 
 ## File Included
 - **Data Set**  [dataset](canada_rent.csv)
