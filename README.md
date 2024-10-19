@@ -11,7 +11,7 @@ Dataset obtained from: [rentfaster.ca](https://www.rentfaster.ca/?utm_source=OOH
 
 
 ## Questions to be explored
-1. What kinds of relationships between each factor and the rental price are? 
+1. What are the relationships between each factor and the rental price? 
 2. Which factors (or features) are important in influencing the rental price?
 3. How are the performances of multiple regression models?
 4. Which regression model is the best model based on statistical anaysis?
