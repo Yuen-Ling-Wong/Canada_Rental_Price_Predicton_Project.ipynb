@@ -20,7 +20,7 @@ Dataset obtained from: [rentfaster.ca](https://www.rentfaster.ca/?utm_source=OOH
 
 ## Data Analysis Steps
 1. **Step 1**: Install + Import Necessary Libraries
-2. **Step 2**: EDA - Data Cleanning + Preprossing + Visualisation
+2. **Step 2**: EDA - Data Cleanning + Preprocessing + Visualisation
 3. **Step 3**: Statistical Anaysis
 4. **Step 4**: Build Multiple Regression Models
 5. **Step 5**: Select Best Model + New Prediction
@@ -29,6 +29,13 @@ Dataset obtained from: [rentfaster.ca](https://www.rentfaster.ca/?utm_source=OOH
 1. LassoCV Model
 2. RidgeCV Model
 3. ElasticNetCV Model
+
+## Machine Learnning Techniques Used
+1. Feature Engineering
+2. Model Selection
+3. Model Training + Evaluation
+4. Hyperparameter Tuning
+5. Cross-Validation
 
 ## File Included
 - **Data Set**  [dataset](canada_rent.csv)
