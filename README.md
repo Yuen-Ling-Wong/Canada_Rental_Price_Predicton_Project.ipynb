@@ -30,13 +30,14 @@ Dataset obtained from: [rentfaster.ca](https://www.rentfaster.ca/?utm_source=OOH
 2. RidgeCV Model
 3. ElasticNetCV Model
 
-## Machine Learnning Techniques Used
-1. Feature Engineering
-2. Model Selection
-3. Model Training + Evaluation
-4. Hyperparameter Tuning
-5. Cross-Validation
+## Machine Learnning Techniques
+- Feature Engineering
+- Model Selection
+- Model Training + Evaluation
+- Hyperparameter Tuning
+- Cross-Validation
 
 ## File Included
-- **Data Set**  [dataset](canada_rent.csv)
+- **Data Set**:  [dataset](canada_rent.csv)
+- **Notebook**: Canada_Rental_Price_Predicton_Project.ipynb
 
